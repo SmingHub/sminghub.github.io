@@ -21,5 +21,12 @@ var searchData=
   ['getssid',['getSSID',['../group__wifi__sta.html#gad15b66f03da67d5f3e0fe277f19b20a9',1,'StationClass']]],
   ['getsystemtimestring',['getSystemTimeString',['../group__system__clock.html#gaaf7a54ec07cd1838beb6dee8b2709817',1,'SystemClockClass']]],
   ['gpio_20functions',['GPIO functions',['../group__gpio.html',1,'']]],
+  ['gpio_5fint_5ftype',['GPIO_INT_TYPE',['../group__constants.html#ga6f9e27f786736a857f19c93ab7f7ebba',1,'gpio.h']]],
+  ['gpio_5fpin_5fintr_5fanyedge',['GPIO_PIN_INTR_ANYEDGE',['../group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaaa0884994b4b665482a116bcf483741b3',1,'gpio.h']]],
+  ['gpio_5fpin_5fintr_5fdisable',['GPIO_PIN_INTR_DISABLE',['../group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa3e68744fdaa10b16d146963bb7e50447',1,'gpio.h']]],
+  ['gpio_5fpin_5fintr_5fhilevel',['GPIO_PIN_INTR_HILEVEL',['../group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa97d5df70e8307bca9c7d2a22f2924916',1,'gpio.h']]],
+  ['gpio_5fpin_5fintr_5flolevel',['GPIO_PIN_INTR_LOLEVEL',['../group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa958ebd95b6a43f23712b7393dbcd76cf',1,'gpio.h']]],
+  ['gpio_5fpin_5fintr_5fnegedge',['GPIO_PIN_INTR_NEGEDGE',['../group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa7462b0b8e0437d0d77198faf532a2055',1,'gpio.h']]],
+  ['gpio_5fpin_5fintr_5fposedge',['GPIO_PIN_INTR_POSEDGE',['../group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaac3d6cd2bf38609f28a9427a82219be54',1,'gpio.h']]],
   ['gpio_5from',['gpio_rom',['../structrboot__config.html#aacf93cb0d8a8b8d605cbf5a7e4a9d778',1,'rboot_config']]]
 ];

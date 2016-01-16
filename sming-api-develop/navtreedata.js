@@ -22,8 +22,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "classMqttClient.html#a93c29106c69c1d228b53129d993badf4",
-"group__event__handlers.html",
-"group__wifi__sta.html#ga3e4913d7fb41a09a395946606129d10d"
+"group__debug.html#ga13c6e6409c563007f4ba3891c4f6c686",
+"group__wifi__sta.html#ga25875fc23dbeb4bc7c9a1a5f7fb76412"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

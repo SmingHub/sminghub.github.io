@@ -27,6 +27,14 @@ var group__constants =
       [ "eSCS_ConnectionFailed", "group__constants.html#gga164bddac15e4b96cae4a069590cc1064a1f961b297e34e7f529f15d53d2570cf8", null ],
       [ "eSCS_GotIP", "group__constants.html#gga164bddac15e4b96cae4a069590cc1064a8cc503291b1a59719ead14c20f228bf0", null ]
     ] ],
+    [ "GPIO_INT_TYPE", "group__constants.html#ga6f9e27f786736a857f19c93ab7f7ebba", [
+      [ "GPIO_PIN_INTR_DISABLE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa3e68744fdaa10b16d146963bb7e50447", null ],
+      [ "GPIO_PIN_INTR_POSEDGE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaac3d6cd2bf38609f28a9427a82219be54", null ],
+      [ "GPIO_PIN_INTR_NEGEDGE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa7462b0b8e0437d0d77198faf532a2055", null ],
+      [ "GPIO_PIN_INTR_ANYEDGE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaaa0884994b4b665482a116bcf483741b3", null ],
+      [ "GPIO_PIN_INTR_LOLEVEL", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa958ebd95b6a43f23712b7393dbcd76cf", null ],
+      [ "GPIO_PIN_INTR_HILEVEL", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa97d5df70e8307bca9c7d2a22f2924916", null ]
+    ] ],
     [ "SmartConfigEvent", "group__constants.html#gad55285f33315ec666cea3776e69dcf2d", null ],
     [ "SmartConfigType", "group__constants.html#ga224e59c3716ac7c0640fa9fa7230d57f", null ],
     [ "SystemClockStatus", "group__constants.html#gacb021ec3e89a1c1b90cea446bdea365b", [
@@ -37,5 +45,11 @@ var group__constants =
     [ "TimeZone", "group__constants.html#gacc0284e7a47f3a3eec5012e46cf9da7e", [
       [ "eTZ_UTC", "group__constants.html#ggacc0284e7a47f3a3eec5012e46cf9da7ea22945733b88203b72857fe0cf4811ac6", null ],
       [ "eTZ_Local", "group__constants.html#ggacc0284e7a47f3a3eec5012e46cf9da7ea3eb7f369e35db1a6d5db1d12292ea819", null ]
-    ] ]
+    ] ],
+    [ "GPIO_PIN_INTR_ANYEDGE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaaa0884994b4b665482a116bcf483741b3", null ],
+    [ "GPIO_PIN_INTR_DISABLE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa3e68744fdaa10b16d146963bb7e50447", null ],
+    [ "GPIO_PIN_INTR_HILEVEL", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa97d5df70e8307bca9c7d2a22f2924916", null ],
+    [ "GPIO_PIN_INTR_LOLEVEL", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa958ebd95b6a43f23712b7393dbcd76cf", null ],
+    [ "GPIO_PIN_INTR_NEGEDGE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa7462b0b8e0437d0d77198faf532a2055", null ],
+    [ "GPIO_PIN_INTR_POSEDGE", "group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaac3d6cd2bf38609f28a9427a82219be54", null ]
 ];

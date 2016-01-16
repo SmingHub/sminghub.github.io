@@ -100,7 +100,8 @@ $(document).ready(function(){initNavTree('group__constants.html','');});
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#enumval-members">Enumerator</a>  </div>
   <div class="headertitle">
 <div class="title">Sming constant values</div>  </div>
 </div><!--header-->
@@ -141,6 +142,22 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="memdesc:gacb021ec3e89a1c1b90cea446bdea365b"><td class="mdescLeft">&#160;</td><td class="mdescRight">System clock status.  <a href="group__constants.html#gacb021ec3e89a1c1b90cea446bdea365b">More...</a><br /></td></tr>
 <tr class="separator:gacb021ec3e89a1c1b90cea446bdea365b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga6f9e27f786736a857f19c93ab7f7ebba"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__constants.html#ga6f9e27f786736a857f19c93ab7f7ebba">GPIO_INT_TYPE</a> { <br />
+&#160;&#160;<a class="el" href="group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa3e68744fdaa10b16d146963bb7e50447">GPIO_PIN_INTR_DISABLE</a> = 0, 
+<br />
+&#160;&#160;<a class="el" href="group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaac3d6cd2bf38609f28a9427a82219be54">GPIO_PIN_INTR_POSEDGE</a> = 1, 
+<br />
+&#160;&#160;<a class="el" href="group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa7462b0b8e0437d0d77198faf532a2055">GPIO_PIN_INTR_NEGEDGE</a> = 2, 
+<br />
+&#160;&#160;<a class="el" href="group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaaa0884994b4b665482a116bcf483741b3">GPIO_PIN_INTR_ANYEDGE</a> = 3, 
+<br />
+&#160;&#160;<a class="el" href="group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa958ebd95b6a43f23712b7393dbcd76cf">GPIO_PIN_INTR_LOLEVEL</a> = 4, 
+<br />
+&#160;&#160;<a class="el" href="group__constants.html#gga6f9e27f786736a857f19c93ab7f7ebbaa97d5df70e8307bca9c7d2a22f2924916">GPIO_PIN_INTR_HILEVEL</a> = 5
+<br />
+ }</td></tr>
+<tr class="memdesc:ga6f9e27f786736a857f19c93ab7f7ebba"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines the GPIO interrupt type.  <a href="group__constants.html#ga6f9e27f786736a857f19c93ab7f7ebba">More...</a><br /></td></tr>
+<tr class="separator:ga6f9e27f786736a857f19c93ab7f7ebba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga164bddac15e4b96cae4a069590cc1064"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__constants.html#ga164bddac15e4b96cae4a069590cc1064">EStationConnectionStatus</a> { <br />
 &#160;&#160;<a class="el" href="group__constants.html#gga164bddac15e4b96cae4a069590cc1064a8f1167d366e17292897cd306f6a1e28f">eSCS_Idle</a> = 0, 
 <br />
@@ -297,6 +314,40 @@ typedef Vector&lt; <a class="el" href="classBssInfo.html">BssInfo</a> &gt;&#160;
 
 </div>
 </div>
+<a class="anchor" id="ga6f9e27f786736a857f19c93ab7f7ebba"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="group__constants.html#ga6f9e27f786736a857f19c93ab7f7ebba">GPIO_INT_TYPE</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Defines the GPIO interrupt type. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a class="anchor" id="gga6f9e27f786736a857f19c93ab7f7ebbaa3e68744fdaa10b16d146963bb7e50447"></a>GPIO_PIN_INTR_DISABLE&#160;</td><td class="fielddoc">
+<p>Interrupt disabled for this pin </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="gga6f9e27f786736a857f19c93ab7f7ebbaac3d6cd2bf38609f28a9427a82219be54"></a>GPIO_PIN_INTR_POSEDGE&#160;</td><td class="fielddoc">
+<p>Interrupt occurs on positive edge </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="gga6f9e27f786736a857f19c93ab7f7ebbaa7462b0b8e0437d0d77198faf532a2055"></a>GPIO_PIN_INTR_NEGEDGE&#160;</td><td class="fielddoc">
+<p>Interrupt occurs on negative edge </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="gga6f9e27f786736a857f19c93ab7f7ebbaaa0884994b4b665482a116bcf483741b3"></a>GPIO_PIN_INTR_ANYEDGE&#160;</td><td class="fielddoc">
+<p>Interrupt occurs on both positive and negative edge </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="gga6f9e27f786736a857f19c93ab7f7ebbaa958ebd95b6a43f23712b7393dbcd76cf"></a>GPIO_PIN_INTR_LOLEVEL&#160;</td><td class="fielddoc">
+<p>Interrupt occurs when GPIO low </p>
+</td></tr>
+<tr><td class="fieldname"><a class="anchor" id="gga6f9e27f786736a857f19c93ab7f7ebbaa97d5df70e8307bca9c7d2a22f2924916"></a>GPIO_PIN_INTR_HILEVEL&#160;</td><td class="fielddoc">
+<p>Interrupt occurs when GPIO high </p>
+</td></tr>
+</table>
+
+</div>
+</div>
 <a class="anchor" id="gacb021ec3e89a1c1b90cea446bdea365b"></a>
 <div class="memitem">
 <div class="memproto">
@@ -346,7 +397,7 @@ typedef Vector&lt; <a class="el" href="classBssInfo.html">BssInfo</a> &gt;&#160;
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Jan 15 2016 19:21:15 for Sming Framework API by
+    <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.9.1 </li>
   </ul>
