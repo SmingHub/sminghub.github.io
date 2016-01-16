@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['debugclass',['DebugClass',['../classDebugClass.html',1,'']]],
+  ['debugouputoptions',['DebugOuputOptions',['../structDebugOuputOptions.html',1,'']]],
+  ['delegate',['Delegate',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20bool_28tcpclient_20_26client_2c_20char_20_2adata_2c_20int_20size_29_3e',['Delegate&lt; bool(TcpClient &amp;client, char *data, int size)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20returntype_28paramslist_2e_2e_2e_29_3e',['Delegate&lt; ReturnType(ParamsList...)&gt;',['../classDelegate_3_01ReturnType_07ParamsList_8_8_8_08_4.html',1,'']]],
+  ['delegate_3c_20void_28_29_3e',['Delegate&lt; void()&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28bool_20result_29_3e',['Delegate&lt; void(bool result)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28bool_2c_20bsslist_29_3e',['Delegate&lt; void(bool, BssList)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28char_20dbgchar_29_3e',['Delegate&lt; void(char dbgChar)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28httpclient_20_26client_2c_20bool_20successful_29_3e',['Delegate&lt; void(HttpClient &amp;client, bool successful)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28httprequest_20_26_2c_20httpresponse_20_26_29_3e',['Delegate&lt; void(HttpRequest &amp;, HttpResponse &amp;)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28httpserverconnection_20_26connection_29_3e',['Delegate&lt; void(HttpServerConnection &amp;connection)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28ntpclient_20_26client_2c_20time_5ft_20ntptime_29_3e',['Delegate&lt; void(NtpClient &amp;client, time_t ntpTime)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28sc_5fstatus_20status_2c_20void_20_2apdata_29_3e',['Delegate&lt; void(sc_status status, void *pdata)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28stream_20_26source_2c_20char_20arrivedchar_2c_20uint16_5ft_20availablecharscount_29_3e',['Delegate&lt; void(Stream &amp;source, char arrivedChar, uint16_t availableCharsCount)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28string_20topic_2c_20string_20message_29_3e',['Delegate&lt; void(String topic, String message)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28tcpclient_20_26client_2c_20bool_20successful_29_3e',['Delegate&lt; void(TcpClient &amp;client, bool successful)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28tcpclient_20_26client_2c_20tcpconnectionevent_20sourceevent_29_3e',['Delegate&lt; void(TcpClient &amp;client, TcpConnectionEvent sourceEvent)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28tcpclient_20_2aclient_29_3e',['Delegate&lt; void(TcpClient *client)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28udpconnection_20_26connection_2c_20char_20_2adata_2c_20int_20size_2c_20ipaddress_20remoteip_2c_20uint16_5ft_20remoteport_29_3e',['Delegate&lt; void(UdpConnection &amp;connection, char *data, int size, IPAddress remoteIP, uint16_t remotePort)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28websocket_20_26_29_3e',['Delegate&lt; void(WebSocket &amp;)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28websocket_20_26_2c_20const_20string_20_26_29_3e',['Delegate&lt; void(WebSocket &amp;, const String &amp;)&gt;',['../classDelegate.html',1,'']]],
+  ['delegate_3c_20void_28websocket_20_26_2c_20uint8_5ft_20_2adata_2c_20size_5ft_20size_29_3e',['Delegate&lt; void(WebSocket &amp;, uint8_t *data, size_t size)&gt;',['../classDelegate.html',1,'']]],
+  ['dnslookup',['DnsLookup',['../structDnsLookup.html',1,'']]],
+  ['driverpwm',['DriverPWM',['../classDriverPWM.html',1,'']]]
+];
