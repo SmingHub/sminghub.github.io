@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['udpconnection',['UdpConnection',['../classUdpConnection.html',1,'']]],
-  ['url',['URL',['../classURL.html',1,'']]]
+  ['print',['Print',['../classPrint.html',1,'']]],
+  ['printable',['Printable',['../classPrintable.html',1,'']]],
+  ['protocol',['Protocol',['../structRCSwitch_1_1Protocol.html',1,'RCSwitch']]]
 ];

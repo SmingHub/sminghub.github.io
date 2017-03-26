@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['magic',['magic',['../structRtcData.html#af1d6f643e40e285e2bee5e8007c93d84',1,'RtcData::magic()'],['../structrboot__config.html#ab4ac91abbff5829c37de56d4d1770a98',1,'rboot_config::magic()']]],
-  ['mode',['mode',['../structrboot__config.html#a513817a6a0ed913bfbe88104b826edb9',1,'rboot_config']]]
+  ['payload',['payload',['../classNrf24l.html#a9d3639ab2bc390cf388bba3652685e24',1,'Nrf24l']]],
+  ['ptx',['PTX',['../classNrf24l.html#a58c788a2ef33a73cc0a3bd716c12e49e',1,'Nrf24l']]]
 ];

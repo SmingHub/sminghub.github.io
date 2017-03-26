@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['unused',['unused',['../structrboot__config.html#aa4e298e668a472cc8cf14b0381ce29e8',1,'rboot_config']]]
+  ['wifiaccesspoint',['WifiAccessPoint',['../group__wifi__ap.html#gaaedb96e14eb665db7dfcc93b7a379aac',1,'AccessPoint.h']]]
 ];

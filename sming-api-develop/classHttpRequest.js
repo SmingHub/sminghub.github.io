@@ -2,7 +2,8 @@ var classHttpRequest =
 [
     [ "HttpRequest", "classHttpRequest.html#a42b01e8d23e15e65ad9c712922a6a812", null ],
     [ "~HttpRequest", "classHttpRequest.html#a1724291d6b6a9be5220646c30e050a41", null ],
-    [ "extractParsingItemsList", "classHttpRequest.html#a6be563a3491ca7fcec555c04c94021d6", null ],
+    [ "extractParsingItemsList", "classHttpRequest.html#ac3e59fb222e64b3e569e1e986a5d6af8", null ],
+    [ "getBody", "classHttpRequest.html#acea482d9e0f285574e69fe4e7adc028f", null ],
     [ "getContentLength", "classHttpRequest.html#ad61cfcb6b2de741f0cf61473cf5ac1c4", null ],
     [ "getContentType", "classHttpRequest.html#a72f9f4efa9ab95444ca5391dd144eec3", null ],
     [ "getCookie", "classHttpRequest.html#aa138554e168a1fc98a43c0fb99403b26", null ],

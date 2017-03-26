@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['timezone',['TimeZone',['../group__constants.html#gacc0284e7a47f3a3eec5012e46cf9da7e',1,'SystemClock.h']]]
+  ['verbosemode',['VerboseMode',['../group__commandhandler.html#gae04e6ec3563272f35f9d8d7a412f04ba',1,'CommandHandler.h']]]
 ];

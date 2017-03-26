@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['rboot_20api',['rBoot API',['../group__rboot.html',1,'']]],
-  ['real_20time_20clock',['Real Time Clock',['../group__rtc.html',1,'']]]
+  ['network_20time_20protocol_20client',['Network Time Protocol client',['../group__ntp.html',1,'']]]
 ];

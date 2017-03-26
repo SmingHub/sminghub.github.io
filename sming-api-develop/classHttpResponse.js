@@ -12,6 +12,7 @@ var classHttpResponse =
     [ "notFound", "classHttpResponse.html#ab710c73aa65ac0506d130f6841e6194a", null ],
     [ "redirect", "classHttpResponse.html#abbe53a6919902bfb8b254fab864ae175", null ],
     [ "sendBody", "classHttpResponse.html#a57b20ddbf914fb287f4c321b93a872fe", null ],
+    [ "sendDataStream", "classHttpResponse.html#abb900809fddf86b5192c5bf08a113e55", null ],
     [ "sendFile", "classHttpResponse.html#a5ac8fc1d595d26d0e43b7429ac640743", null ],
     [ "sendHeader", "classHttpResponse.html#a522560820fec07c4f1f8675699d85887", null ],
     [ "sendJsonObject", "classHttpResponse.html#a4ad42c6da411ab80d938f1f07e77171d", null ],

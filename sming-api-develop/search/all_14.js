@@ -1,11 +1,15 @@
 var searchData=
 [
-  ['waitconnection',['waitConnection',['../group__wifi__sta.html#ga3e4913d7fb41a09a395946606129d10d',1,'StationClass::waitConnection(ConnectionDelegate successfulConnected)'],['../group__wifi__sta.html#gaf6b35db1894cf395c323f37d14530380',1,'StationClass::waitConnection(ConnectionDelegate successfulConnected, int secondsTimeOut, ConnectionDelegate connectionNotEstablished)']]],
-  ['watchdog_20timer',['Watchdog Timer',['../group__wdt.html',1,'']]],
-  ['wdtclass',['WDTClass',['../classWDTClass.html',1,'']]],
-  ['websocket',['WebSocket',['../classWebSocket.html',1,'']]],
-  ['wifi_20access_20point',['WiFi Access Point',['../group__wifi__ap.html',1,'']]],
-  ['wifi_20station_20interface',['WiFi Station Interface',['../group__wifi__sta.html',1,'']]],
-  ['wifiaccesspoint',['WifiAccessPoint',['../group__wifi__ap.html#gaaedb96e14eb665db7dfcc93b7a379aac',1,'AccessPoint.h']]],
-  ['write',['write',['../group__serial.html#ga0115a99310d2c24205fdc13d692ad4be',1,'HardwareSerial']]]
+  ['variables',['variables',['../classTemplateFileStream.html#a0994a359ad2bfc4ea8c209ba3db3b683',1,'TemplateFileStream']]],
+  ['vector',['Vector',['../classVector.html',1,'']]],
+  ['vector_3c_20channelpwm_20_3e',['Vector&lt; ChannelPWM &gt;',['../classVector.html',1,'']]],
+  ['vector_3c_20delegate_20_3e',['Vector&lt; Delegate &gt;',['../classVector.html',1,'']]],
+  ['vector_3c_20httpfirmwareupdateitem_20_3e',['Vector&lt; HttpFirmwareUpdateItem &gt;',['../classVector.html',1,'']]],
+  ['vector_3c_20isystemreadyhandler_20_2a_20_3e',['Vector&lt; ISystemReadyHandler * &gt;',['../classVector.html',1,'']]],
+  ['vector_3c_20rboothttpupdateitem_20_3e',['Vector&lt; rBootHttpUpdateItem &gt;',['../classVector.html',1,'']]],
+  ['vector_3c_20servochannel_20_2a_20_3e',['Vector&lt; ServoChannel * &gt;',['../classVector.html',1,'']]],
+  ['vector_3c_20string_20_3e',['Vector&lt; String &gt;',['../classVector.html',1,'']]],
+  ['vector_3c_20websocket_20_3e',['Vector&lt; WebSocket &gt;',['../classVector.html',1,'']]],
+  ['verbose',['VERBOSE',['../group__commandhandler.html#ggae04e6ec3563272f35f9d8d7a412f04baace3e26676763569084c86b8c3b67d601',1,'CommandHandler.h']]],
+  ['verbosemode',['VerboseMode',['../group__commandhandler.html#gae04e6ec3563272f35f9d8d7a412f04ba',1,'CommandHandler.h']]]
 ];
