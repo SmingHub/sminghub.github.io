@@ -10,7 +10,6 @@ var modules =
     [ "Hardware serial", "group__serial.html", "group__serial" ],
     [ "Hardware timer", "group__hwtimer.html", "group__hwtimer" ],
     [ "Interrupt functions", "group__interrupts.html", "group__interrupts" ],
-    [ "Libraries", "group__libraries.html", "group__libraries" ],
     [ "Print stream functions", "group__print.html", "group__print" ],
     [ "Pulse width modulation", "group__pwm.html", "group__pwm" ],
     [ "RC Servo functions", "group__Servo.html", "group__Servo" ],

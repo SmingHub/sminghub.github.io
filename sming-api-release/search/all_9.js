@@ -9,7 +9,6 @@ var searchData=
   ['idelegatecaller_3c_20returntype_2c_20paramslist_2e_2e_2e_20_3e',['IDelegateCaller&lt; ReturnType, ParamsList... &gt;',['../classIDelegateCaller.html',1,'']]],
   ['incomplete',['incomplete',['../group__wsframe.html#ggadb296761d95f8b6fc4af7dc5f2c9fe01a5ed4e9858ad8d239145ef285b6210a00',1,'WebsocketFrame.h']]],
   ['increase',['increase',['../classIDelegateCaller.html#a3af9e79f473f57e8202c4973d5f37366',1,'IDelegateCaller']]],
-  ['init',['Init',['../classDS18S20.html#a7d593216797a90aa03081c12a32032dd',1,'DS18S20']]],
   ['initcommand',['initCommand',['../classDebugClass.html#a4b92612c788c442bf6f33439c7a8150a',1,'DebugClass']]],
   ['initialize',['initialize',['../classDriverPWM.html#a4c2173c8d360f3581ebc81f6a3a0bdb1',1,'DriverPWM::initialize()'],['../classChannelPWM.html#a9db74b3292965d910aaeb2b0ecf59d61',1,'ChannelPWM::initialize()'],['../group__system.html#ga6f76530665629e2a2d0246fb63af9696',1,'SystemClass::initialize()']]],
   ['initializems',['initializeMs',['../classHardware__Timer.html#a34a5f9c9e0b760e1db6bb4e17b395cbd',1,'Hardware_Timer::initializeMs()'],['../group__timer.html#gaa116e26295abe7ba0f713bb680a76a59',1,'Timer::initializeMs(uint32_t milliseconds, InterruptCallback callback=NULL)'],['../group__timer.html#gacff85d16f46217ace62486a1325a1515',1,'Timer::initializeMs(uint32_t milliseconds, TimerDelegate delegateFunction=NULL)']]],
@@ -37,6 +36,5 @@ var searchData=
   ['isstarted',['isStarted',['../classHardware__Timer.html#a1ac800464fed8fa5db56b0dc7e9a8df5',1,'Hardware_Timer::isStarted()'],['../group__timer.html#ga2c03be883cf950d14e058b4205f1526e',1,'Timer::isStarted()']]],
   ['istxenabled',['isTxEnabled',['../classHardwareSerial.html#a82d71ffebdc2127c1ff44cd00d803827',1,'HardwareSerial']]],
   ['isvalid',['isValid',['../classRF24.html#a35e5f1533b7753806c42b76e782d917e',1,'RF24']]],
-  ['isvalidtemperature',['IsValidTemperature',['../classDS18S20.html#a39fc95ecd1ade74e405b41770f8181c9',1,'DS18S20']]],
   ['isystemreadyhandler',['ISystemReadyHandler',['../classISystemReadyHandler.html',1,'']]]
 ];

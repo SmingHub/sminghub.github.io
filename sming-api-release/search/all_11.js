@@ -93,7 +93,6 @@ var searchData=
   ['sslkeycertpair',['SSLKeyCertPair',['../structSSLKeyCertPair.html',1,'']]],
   ['start',['start',['../classDebugClass.html#aab8112a3d8d694437be2f0e535be03ae',1,'DebugClass::start()'],['../classHardware__Timer.html#a7d6909e4296ff94ac66d1526e589bcbe',1,'Hardware_Timer::start()'],['../group__timer.html#gad32c8ca7c0ab22d2ed2337e43a0e925d',1,'Timer::start()'],['../classI2cMasterBase.html#adf5e98b79dec8f7b5a43c2ec8f2f9f7a',1,'I2cMasterBase::start()'],['../classSoftI2cMaster.html#a66a6298702caed4f52537ef372307699',1,'SoftI2cMaster::start()']]],
   ['startlistening',['startListening',['../classRF24.html#a30a2733a3889bdc331fe2d2f4f0f7b39',1,'RF24']]],
-  ['startmeasure',['StartMeasure',['../classDS18S20.html#a7c5453101892cd6035a79862695a5b27',1,'DS18S20']]],
   ['startonce',['startOnce',['../classHardware__Timer.html#a2688e824927817b9ae177c60008c99fa',1,'Hardware_Timer::startOnce()'],['../group__timer.html#ga79112b78bb1930a3350858c15221ac97',1,'Timer::startOnce()']]],
   ['startscan',['startScan',['../group__wifi__sta.html#ga7fb5950d72a7180a527f45e0b629c69d',1,'StationClass']]],
   ['startwrite',['startWrite',['../classRF24.html#a9e011d4dfa89a2b06f47b7e0a97d9b42',1,'RF24']]],

@@ -9,7 +9,6 @@ var searchData=
   ['readtempandhumidity',['readTempAndHumidity',['../classDHT.html#a87777bd1b63858b8431718b2585b6585',1,'DHT']]],
   ['readtemperature',['readTemperature',['../classDHT.html#a89c856736b9b33f2e48d77b549b2afd4',1,'DHT']]],
   ['registercommand',['registerCommand',['../classCommandHandler.html#a6054a0e1717722307a88d82b8de45653',1,'CommandHandler']]],
-  ['registerendcallback',['RegisterEndCallback',['../classDS18S20.html#a6b92e7a0f54027bb1ab08f10fbea58bc',1,'DS18S20']]],
   ['registersystemcommands',['registerSystemCommands',['../classCommandHandler.html#aab2fdf1b0915ad9dde92f591e9c62dc4',1,'CommandHandler']]],
   ['removechannel',['removeChannel',['../classServo.html#ac249d77abf73934402aa9310d7813b3b',1,'Servo']]],
   ['requesttime',['requestTime',['../classNtpClient.html#af02ed50c487b0572e4b00c6159a65b95',1,'NtpClient']]],

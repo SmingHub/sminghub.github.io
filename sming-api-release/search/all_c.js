@@ -2,10 +2,8 @@ var searchData=
 [
   ['magic',['magic',['../group__rtc.html#gaf1d6f643e40e285e2bee5e8007c93d84',1,'RtcData']]],
   ['max_5fhw_5ftimer_5finterval_5fus',['MAX_HW_TIMER_INTERVAL_US',['../group__hwtimer.html#ga27d82f0e0a134a2cba339abb7a552e9e',1,'HardwareTimer.h']]],
-  ['max_5fsensors',['MAX_SENSORS',['../group__DS18S20.html#gaa3d1fc2927eec213e6b5f9e854c392d2',1,'ds18s20.h']]],
   ['mcp',['MCP',['../classMCP.html',1,'']]],
   ['mcp23017',['MCP23017',['../classMCP23017.html',1,'']]],
-  ['measurestatus',['MeasureStatus',['../classDS18S20.html#afef7001011642f7630cd4e4da458be7c',1,'DS18S20']]],
   ['memorydatastream',['MemoryDataStream',['../classMemoryDataStream.html',1,'MemoryDataStream'],['../classMemoryDataStream.html#a3340a2168df4ce663876e4e130cc569e',1,'MemoryDataStream::MemoryDataStream()']]],
   ['methodcaller',['MethodCaller',['../classMethodCaller.html',1,'MethodCaller&lt; class &gt;'],['../classMethodCaller_3_01ReturnType_07ClassType_1_1_5_08_07ParamsList_8_8_8_08_4.html#a1438e54a0922ae6473a48e0183f95c2d',1,'MethodCaller&lt; ReturnType(ClassType::*)(ParamsList...)&gt;::MethodCaller()']]],
   ['methodcaller_3c_20returntype_28classtype_3a_3a_2a_29_28paramslist_2e_2e_2e_29_3e',['MethodCaller&lt; ReturnType(ClassType::*)(ParamsList...)&gt;',['../classMethodCaller_3_01ReturnType_07ClassType_1_1_5_08_07ParamsList_8_8_8_08_4.html',1,'']]],

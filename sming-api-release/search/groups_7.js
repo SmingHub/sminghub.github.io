@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['network_20time_20protocol_20client',['Network Time Protocol client',['../group__ntp.html',1,'']]]
+  ['print_20stream_20functions',['Print stream functions',['../group__print.html',1,'']]],
+  ['pulse_20width_20modulation',['Pulse width modulation',['../group__pwm.html',1,'']]]
 ];

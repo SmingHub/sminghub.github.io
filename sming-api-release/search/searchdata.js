@@ -7,7 +7,7 @@ var indexSectionsWithContent =
   4: "bcdstw",
   5: "cdefstvw",
   6: "deisv",
-  7: "cdfghilnprstw",
+  7: "cdfghinprstw",
   8: "t"
 };
 

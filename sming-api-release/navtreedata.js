@@ -35,9 +35,9 @@ var NAVTREEINDEX =
 "classStringSumHelper.html#a45fb7520467197903fdcad44a1da43f9",
 "classTcpServer.html#ad282a58a7f973e224d243500ba497351",
 "classWebsocketClient.html#a7caad1d87a32cc1b1092396c14dab6aa",
-"group__constants.html#gga8a65141d9ea4bf9d2e2377ed6b888a1da9bc885c0c8b6b89691a39d0ba980ecfc",
-"group__wifi__ap.html#gaaedb96e14eb665db7dfcc93b7a379aac",
-"structSSLKeyCertPair.html#a108de30c5932ae23cecf5e288be47ca6"
+"group__constants.html#gga9692fa71139ed4c69f772ee201ec33dea06af4e5da5836230c31e6c5f71ab1855",
+"group__wifi__sta.html#ga09053c8c1b1041e30141b79f5b0436b9",
+"structSSLKeyCertPair.html#a4efd3d56565ddb63d8482a089b7d60af"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
