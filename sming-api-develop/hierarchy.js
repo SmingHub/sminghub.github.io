@@ -139,6 +139,8 @@ var hierarchy =
     [ "MCP", "classMCP.html", null ],
     [ "MCP23017", "classMCP23017.html", null ],
     [ "MethodCaller< class >", "classMethodCaller.html", null ],
+    [ "MFRC522", "classMFRC522.html", null ],
+    [ "MFRC522::MIFARE_Key", "structMFRC522_1_1MIFARE__Key.html", null ],
     [ "MirfSpiDriver", "classMirfSpiDriver.html", [
       [ "MirfHardwareSpi85Driver", "classMirfHardwareSpi85Driver.html", null ],
       [ "MirfHardwareSpiDriver", "classMirfHardwareSpiDriver.html", null ]
@@ -194,7 +196,6 @@ var hierarchy =
       [ "SPISoft", "classSPISoft.html", null ]
     ] ],
     [ "SPISettings", "classSPISettings.html", null ],
-    [ "SSLKeyCertPair", "structSSLKeyCertPair.html", null ],
     [ "String", "classString.html", [
       [ "StringSumHelper", "classStringSumHelper.html", null ]
     ] ],
@@ -224,6 +225,7 @@ var hierarchy =
       [ "DNSServer", "classDNSServer.html", null ],
       [ "NtpClient", "classNtpClient.html", null ]
     ] ],
+    [ "MFRC522::Uid", "structMFRC522_1_1Uid.html", null ],
     [ "Ultrasonic", "classUltrasonic.html", null ],
     [ "URL", "classURL.html", null ],
     [ "WebSocket", "classWebSocket.html", null ],

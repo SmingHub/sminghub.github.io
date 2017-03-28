@@ -365,6 +365,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Enable / disable WiFi station. </p>
+<dl class="section note"><dt>Note</dt><dd>Disabling WiFi station will also disable and clear the handler set with <em>waitConnection</em>. </dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">enabled</td><td>True to enable station. False to disable. </td></tr>
@@ -947,7 +948,7 @@ Variables</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">sctype</td><td>Smart configuration type </td></tr>
-    <tr><td class="paramname">callback</td><td>Function to call on WiFi staton smart configuration complete (Default: Internal callback) </td></tr>
+    <tr><td class="paramname">callback</td><td>Function to call on WiFi staton smart configuration complete (Default: none) </td></tr>
   </table>
   </dd>
 </dl>
@@ -1016,6 +1017,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Assign handler for WiFi station connection. </p>
+<dl class="section note"><dt>Note</dt><dd>The handler will be cleared if the WiFi Station is disabled. If you subsequently reenable WiFi Station, another call to <em>waitConnection</em> must be made if you want the handler to be reinstalled. </dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">successfulConnected</td><td>Function to call when WiFi station connects to network </td></tr>
@@ -1056,6 +1058,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Assign handler for WiFi station connection with timeout. </p>
+<dl class="section note"><dt>Note</dt><dd>The handler will be cleared if the WiFi Station is disabled. If you subsequently reenable WiFi Station, another call to <em>waitConnection</em> must be made if you want the handler to be reinstalled. </dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">successfulConnected</td><td>Function to call when WiFi station connects to network </td></tr>

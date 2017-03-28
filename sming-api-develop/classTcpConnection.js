@@ -4,8 +4,8 @@ var classTcpConnection =
     [ "TcpConnection", "classTcpConnection.html#a936b499d010ead10fdcf73aa4b50ad00", null ],
     [ "~TcpConnection", "classTcpConnection.html#a56efd5e26e0447b273e9d07dd899ad7b", null ],
     [ "close", "classTcpConnection.html#ab10f02f82a514714b7585e0dd00a8d7b", null ],
-    [ "connect", "classTcpConnection.html#a0ed70bd4582c06b0a8ddd28b28c77b53", null ],
-    [ "connect", "classTcpConnection.html#a125e3825f9dc6a76200f4963b2602439", null ],
+    [ "connect", "classTcpConnection.html#a76541f4efb80f01242580fa729a0fb86", null ],
+    [ "connect", "classTcpConnection.html#a9c91997d5656394ae74d5dbf105d6006", null ],
     [ "flush", "classTcpConnection.html#aaaa45b0c9a0b26df7f8ca79697785114", null ],
     [ "getAvailableWriteSize", "classTcpConnection.html#ab8d1467ac2d76882be7ec74f0aa0e1bf", null ],
     [ "getRemoteIp", "classTcpConnection.html#a333a64364cd35ef53615bd52b9918825", null ],
@@ -28,5 +28,5 @@ var classTcpConnection =
     [ "sleep", "classTcpConnection.html#a482c5afdb16d0a93c46a8b83da649254", null ],
     [ "tcp", "classTcpConnection.html#a601e019508b0071d0825908eaee0f58c", null ],
     [ "timeOut", "classTcpConnection.html#a3d11a5464ae92193779dafc650597fa2", null ],
-    [ "useSsl", "classTcpConnection.html#a4d65a3756759420a594066466d7090cd", null ]
+    [ "useSsl", "classTcpConnection.html#a1f713f30d71b5015ae1ee0cf98607298", null ]
 ];

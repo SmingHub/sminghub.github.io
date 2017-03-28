@@ -90,7 +90,6 @@ var searchData=
   ['spisettings',['SPISettings',['../classSPISettings.html',1,'SPISettings'],['../group__base__spi.html#gab016cb0060a9c26fc87be6abca2fd760',1,'SPISettings::SPISettings()']]],
   ['spisoft',['SPISoft',['../classSPISoft.html',1,'']]],
   ['ssid',['ssid',['../group__wifi__sta.html#ga60490812f38152aa29babd9d97d4d9cd',1,'BssInfo']]],
-  ['sslkeycertpair',['SSLKeyCertPair',['../structSSLKeyCertPair.html',1,'']]],
   ['start',['start',['../classDebugClass.html#aab8112a3d8d694437be2f0e535be03ae',1,'DebugClass::start()'],['../classHardware__Timer.html#a7d6909e4296ff94ac66d1526e589bcbe',1,'Hardware_Timer::start()'],['../group__timer.html#gad32c8ca7c0ab22d2ed2337e43a0e925d',1,'Timer::start()'],['../classI2cMasterBase.html#adf5e98b79dec8f7b5a43c2ec8f2f9f7a',1,'I2cMasterBase::start()'],['../classSoftI2cMaster.html#a66a6298702caed4f52537ef372307699',1,'SoftI2cMaster::start()']]],
   ['startlistening',['startListening',['../classRF24.html#a30a2733a3889bdc331fe2d2f4f0f7b39',1,'RF24']]],
   ['startmeasure',['StartMeasure',['../classDS18S20.html#a7c5453101892cd6035a79862695a5b27',1,'DS18S20']]],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX6 =
 {
+"classLiquidCrystal.html#aa2b898366e1c656ac313b9007c98cebd":[5,0,77,55],
+"classLiquidCrystal.html#aad2abc99d1aca5403873579d9d72c2d4":[5,0,77,20],
 "classLiquidCrystal.html#aba8867fe2210cbfa8db869208709be10":[5,0,77,9],
 "classLiquidCrystal.html#abb3ed88d530f6283e6159b4973e7da9e":[5,0,77,8],
 "classLiquidCrystal.html#abfc44b294772f09020bfa32af8a79571":[5,0,77,53],
@@ -247,7 +249,5 @@ var NAVTREEINDEX6 =
 "classLiquidCrystal__SR3W.html#a67aa459464b181ee200e9173e53b11ff":[5,0,81,35],
 "classLiquidCrystal__SR3W.html#a6a28a24faffa4f43c12fe0a70c81807c":[5,0,81,33],
 "classLiquidCrystal__SR3W.html#a6d0fc7907ef9fd87c408a21b9bd49295":[5,0,81,51],
-"classLiquidCrystal__SR3W.html#a6d837611f19b3fc7ced014517021a57b":[5,0,81,31],
-"classLiquidCrystal__SR3W.html#a6f3a503055b3b8dcf0f61b2633c584f7":[5,0,81,48],
-"classLiquidCrystal__SR3W.html#a718da3a638deb59bd1c7a5222a52d98a":[5,0,81,24]
+"classLiquidCrystal__SR3W.html#a6d837611f19b3fc7ced014517021a57b":[5,0,81,31]
 };

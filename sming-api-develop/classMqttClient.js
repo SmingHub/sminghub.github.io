@@ -8,6 +8,8 @@ var classMqttClient =
     [ "connect", "classMqttClient.html#ab4221eb9af409433e340702df67a2aa7", null ],
     [ "connect", "classMqttClient.html#a6b3b36c4859145c5686126d4051e33b7", null ],
     [ "connect", "classMqttClient.html#a1d0685ac523f6e6ac2d5a6993172feb3", null ],
+    [ "connect", "classMqttClient.html#a76541f4efb80f01242580fa729a0fb86", null ],
+    [ "connect", "classMqttClient.html#a9c91997d5656394ae74d5dbf105d6006", null ],
     [ "debugPrintResponseType", "classMqttClient.html#a6a515cf9e00ae813a7dbfa172a081db6", null ],
     [ "flush", "classMqttClient.html#aaaa45b0c9a0b26df7f8ca79697785114", null ],
     [ "getAvailableWriteSize", "classMqttClient.html#ab8d1467ac2d76882be7ec74f0aa0e1bf", null ],
@@ -46,5 +48,5 @@ var classMqttClient =
     [ "sleep", "classMqttClient.html#a482c5afdb16d0a93c46a8b83da649254", null ],
     [ "tcp", "classMqttClient.html#a601e019508b0071d0825908eaee0f58c", null ],
     [ "timeOut", "classMqttClient.html#a3d11a5464ae92193779dafc650597fa2", null ],
-    [ "useSsl", "classMqttClient.html#a4d65a3756759420a594066466d7090cd", null ]
+    [ "useSsl", "classMqttClient.html#a1f713f30d71b5015ae1ee0cf98607298", null ]
 ];

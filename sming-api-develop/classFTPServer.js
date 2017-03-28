@@ -5,8 +5,8 @@ var classFTPServer =
     [ "addUser", "classFTPServer.html#adddb840204f296775d059075c440d9f9", null ],
     [ "checkUser", "classFTPServer.html#a427ae5840b2491164bb3e92099ee469e", null ],
     [ "close", "classFTPServer.html#ab10f02f82a514714b7585e0dd00a8d7b", null ],
-    [ "connect", "classFTPServer.html#a0ed70bd4582c06b0a8ddd28b28c77b53", null ],
-    [ "connect", "classFTPServer.html#a125e3825f9dc6a76200f4963b2602439", null ],
+    [ "connect", "classFTPServer.html#a76541f4efb80f01242580fa729a0fb86", null ],
+    [ "connect", "classFTPServer.html#a9c91997d5656394ae74d5dbf105d6006", null ],
     [ "createClient", "classFTPServer.html#ac98211a0c263950f623710f85d599936", null ],
     [ "flush", "classFTPServer.html#aaaa45b0c9a0b26df7f8ca79697785114", null ],
     [ "getAvailableWriteSize", "classFTPServer.html#ab8d1467ac2d76882be7ec74f0aa0e1bf", null ],
@@ -37,5 +37,5 @@ var classFTPServer =
     [ "canSend", "classFTPServer.html#a730b80fbbafb4ac92eda9b320ccf7bbf", null ],
     [ "sleep", "classFTPServer.html#a482c5afdb16d0a93c46a8b83da649254", null ],
     [ "tcp", "classFTPServer.html#a601e019508b0071d0825908eaee0f58c", null ],
-    [ "useSsl", "classFTPServer.html#a4d65a3756759420a594066466d7090cd", null ]
+    [ "useSsl", "classFTPServer.html#a1f713f30d71b5015ae1ee0cf98607298", null ]
 ];

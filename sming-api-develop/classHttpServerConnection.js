@@ -4,8 +4,8 @@ var classHttpServerConnection =
     [ "~HttpServerConnection", "classHttpServerConnection.html#ac2c8664cff3094698efc29310ceb0cd9", null ],
     [ "beginSendData", "classHttpServerConnection.html#a8386976302a3c9ff72325dbe0d216f85", null ],
     [ "close", "classHttpServerConnection.html#a4b7f95ac4ecba048873586eae49a5bcc", null ],
-    [ "connect", "classHttpServerConnection.html#a0ed70bd4582c06b0a8ddd28b28c77b53", null ],
-    [ "connect", "classHttpServerConnection.html#a125e3825f9dc6a76200f4963b2602439", null ],
+    [ "connect", "classHttpServerConnection.html#a76541f4efb80f01242580fa729a0fb86", null ],
+    [ "connect", "classHttpServerConnection.html#a9c91997d5656394ae74d5dbf105d6006", null ],
     [ "flush", "classHttpServerConnection.html#aaaa45b0c9a0b26df7f8ca79697785114", null ],
     [ "getAvailableWriteSize", "classHttpServerConnection.html#ab8d1467ac2d76882be7ec74f0aa0e1bf", null ],
     [ "getRemoteIp", "classHttpServerConnection.html#a333a64364cd35ef53615bd52b9918825", null ],
@@ -32,5 +32,5 @@ var classHttpServerConnection =
     [ "sleep", "classHttpServerConnection.html#a482c5afdb16d0a93c46a8b83da649254", null ],
     [ "tcp", "classHttpServerConnection.html#a601e019508b0071d0825908eaee0f58c", null ],
     [ "timeOut", "classHttpServerConnection.html#a3d11a5464ae92193779dafc650597fa2", null ],
-    [ "useSsl", "classHttpServerConnection.html#a4d65a3756759420a594066466d7090cd", null ]
+    [ "useSsl", "classHttpServerConnection.html#a1f713f30d71b5015ae1ee0cf98607298", null ]
 ];

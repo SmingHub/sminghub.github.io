@@ -13,7 +13,6 @@ var searchData=
   ['spiclass',['SPIClass',['../classSPIClass.html',1,'']]],
   ['spisettings',['SPISettings',['../classSPISettings.html',1,'']]],
   ['spisoft',['SPISoft',['../classSPISoft.html',1,'']]],
-  ['sslkeycertpair',['SSLKeyCertPair',['../structSSLKeyCertPair.html',1,'']]],
   ['stationclass',['StationClass',['../classStationClass.html',1,'']]],
   ['stream',['Stream',['../classStream.html',1,'']]],
   ['string',['String',['../classString.html',1,'']]],

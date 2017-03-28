@@ -8,6 +8,8 @@ var group__wsclient =
       [ "close", "classWebsocketClient.html#a39dfc6c0d46863836e15b56d8077ef0c", null ],
       [ "connect", "classWebsocketClient.html#a6b3b36c4859145c5686126d4051e33b7", null ],
       [ "connect", "classWebsocketClient.html#a1d0685ac523f6e6ac2d5a6993172feb3", null ],
+      [ "connect", "classWebsocketClient.html#a76541f4efb80f01242580fa729a0fb86", null ],
+      [ "connect", "classWebsocketClient.html#a9c91997d5656394ae74d5dbf105d6006", null ],
       [ "connect", "group__wsclient.html#gaa6b4f982bda2e0beadba9ea490c34960", null ],
       [ "disconnect", "group__wsclient.html#ga11a66333f7a1052421efffe191de3bc5", null ],
       [ "flush", "classWebsocketClient.html#aaaa45b0c9a0b26df7f8ca79697785114", null ],
@@ -50,7 +52,7 @@ var group__wsclient =
       [ "sleep", "classWebsocketClient.html#a482c5afdb16d0a93c46a8b83da649254", null ],
       [ "tcp", "classWebsocketClient.html#a601e019508b0071d0825908eaee0f58c", null ],
       [ "timeOut", "classWebsocketClient.html#a3d11a5464ae92193779dafc650597fa2", null ],
-      [ "useSsl", "classWebsocketClient.html#a4d65a3756759420a594066466d7090cd", null ]
+      [ "useSsl", "classWebsocketClient.html#a1f713f30d71b5015ae1ee0cf98607298", null ]
     ] ],
     [ "WebSocketClientBinaryDelegate", "group__wsclient.html#gaedbf9cc35ea92799c6a069b263444bdf", null ],
     [ "WebSocketClientConnectedDelegate", "group__wsclient.html#gac2018e9238123b4452ce83cd439040f5", null ],

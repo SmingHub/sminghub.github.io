@@ -6,8 +6,8 @@ var classTcpServer =
     [ "TcpServer", "classTcpServer.html#aecb0c47839bf36272300a3985b243a72", null ],
     [ "~TcpServer", "classTcpServer.html#ad1d37e10072aa3a80bafc6bf2f52c896", null ],
     [ "close", "classTcpServer.html#ab10f02f82a514714b7585e0dd00a8d7b", null ],
-    [ "connect", "classTcpServer.html#a0ed70bd4582c06b0a8ddd28b28c77b53", null ],
-    [ "connect", "classTcpServer.html#a125e3825f9dc6a76200f4963b2602439", null ],
+    [ "connect", "classTcpServer.html#a76541f4efb80f01242580fa729a0fb86", null ],
+    [ "connect", "classTcpServer.html#a9c91997d5656394ae74d5dbf105d6006", null ],
     [ "createClient", "classTcpServer.html#ad282a58a7f973e224d243500ba497351", null ],
     [ "flush", "classTcpServer.html#aaaa45b0c9a0b26df7f8ca79697785114", null ],
     [ "getAvailableWriteSize", "classTcpServer.html#ab8d1467ac2d76882be7ec74f0aa0e1bf", null ],
@@ -36,5 +36,5 @@ var classTcpServer =
     [ "canSend", "classTcpServer.html#a730b80fbbafb4ac92eda9b320ccf7bbf", null ],
     [ "sleep", "classTcpServer.html#a482c5afdb16d0a93c46a8b83da649254", null ],
     [ "tcp", "classTcpServer.html#a601e019508b0071d0825908eaee0f58c", null ],
-    [ "useSsl", "classTcpServer.html#a4d65a3756759420a594066466d7090cd", null ]
+    [ "useSsl", "classTcpServer.html#a1f713f30d71b5015ae1ee0cf98607298", null ]
 ];

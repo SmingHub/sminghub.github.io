@@ -5,6 +5,8 @@ var classHttpClient =
     [ "close", "classHttpClient.html#a39dfc6c0d46863836e15b56d8077ef0c", null ],
     [ "connect", "classHttpClient.html#a6b3b36c4859145c5686126d4051e33b7", null ],
     [ "connect", "classHttpClient.html#a1d0685ac523f6e6ac2d5a6993172feb3", null ],
+    [ "connect", "classHttpClient.html#a76541f4efb80f01242580fa729a0fb86", null ],
+    [ "connect", "classHttpClient.html#a9c91997d5656394ae74d5dbf105d6006", null ],
     [ "downloadFile", "classHttpClient.html#ab43f1c62c70a55193693ff369a852bea", null ],
     [ "downloadFile", "classHttpClient.html#afb0a6b096a2380d398b19b1adb5e0826", null ],
     [ "downloadString", "classHttpClient.html#a25c493ed54241d527221b49ad2780b42", null ],
@@ -53,7 +55,7 @@ var classHttpClient =
     [ "sleep", "classHttpClient.html#a482c5afdb16d0a93c46a8b83da649254", null ],
     [ "tcp", "classHttpClient.html#a601e019508b0071d0825908eaee0f58c", null ],
     [ "timeOut", "classHttpClient.html#a3d11a5464ae92193779dafc650597fa2", null ],
-    [ "useSsl", "classHttpClient.html#a4d65a3756759420a594066466d7090cd", null ],
+    [ "useSsl", "classHttpClient.html#a1f713f30d71b5015ae1ee0cf98607298", null ],
     [ "waitParse", "classHttpClient.html#a95b753e9c9b75aedf4f8635c7400be77", null ],
     [ "writeError", "classHttpClient.html#a7274432e4a75417628d8bb236f3da2e5", null ]
 ];

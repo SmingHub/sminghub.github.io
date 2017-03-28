@@ -5,8 +5,8 @@ var classHttpServer =
     [ "addPath", "classHttpServer.html#a4a1067f6ed0b78b4c813f67e4ed83f42", null ],
     [ "close", "classHttpServer.html#ab10f02f82a514714b7585e0dd00a8d7b", null ],
     [ "commandProcessing", "classHttpServer.html#a3651f3690d3f2a13fddf1f75fba7fd6a", null ],
-    [ "connect", "classHttpServer.html#a0ed70bd4582c06b0a8ddd28b28c77b53", null ],
-    [ "connect", "classHttpServer.html#a125e3825f9dc6a76200f4963b2602439", null ],
+    [ "connect", "classHttpServer.html#a76541f4efb80f01242580fa729a0fb86", null ],
+    [ "connect", "classHttpServer.html#a9c91997d5656394ae74d5dbf105d6006", null ],
     [ "createClient", "classHttpServer.html#af549c0354e51079de6aeb96838c3ad0a", null ],
     [ "enableHeaderProcessing", "classHttpServer.html#aff1d6aa5491cb05d48162ee36c053f7e", null ],
     [ "enableWebSockets", "classHttpServer.html#a5e2bdd8f7d9c91cd787761ab799c1b8d", null ],
@@ -51,5 +51,5 @@ var classHttpServer =
     [ "canSend", "classHttpServer.html#a730b80fbbafb4ac92eda9b320ccf7bbf", null ],
     [ "sleep", "classHttpServer.html#a482c5afdb16d0a93c46a8b83da649254", null ],
     [ "tcp", "classHttpServer.html#a601e019508b0071d0825908eaee0f58c", null ],
-    [ "useSsl", "classHttpServer.html#a4d65a3756759420a594066466d7090cd", null ]
+    [ "useSsl", "classHttpServer.html#a1f713f30d71b5015ae1ee0cf98607298", null ]
 ];
